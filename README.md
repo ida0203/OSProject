@@ -5,8 +5,8 @@ Group Name: __Fill your team name__.
 Section: __Fill your class section__. 
 
 Team Mates:
-1. __Fill name__ and __matric no__
-2. __Fill name__ and __matric no__
+1. __Muhammad Shafiq bin Haja Salim__ __(2310633)__
+2. __Mohamed Akram bin Nimathullah__ __(2217711)__
 3. __Fill name__ and __matric no__
 
 ## Rules
