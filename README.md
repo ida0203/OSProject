@@ -1,13 +1,16 @@
 # OSProject Running Containers for Application Development
 
-Group Name: __Fill your team name__. 
+Group Name: __Group X__. 
 
-Section: __Fill your class section__. 
+Section: __7__. 
 
 Team Mates:
-1. __Fill name__ and __matric no__
-2. __Fill name__ and __matric no__
-3. __Fill name__ and __matric no__
+1. __NUR SYAHIDA BINTI AYOB 2311722__
+2. __NURHUSNA SHAMIMIE BINTI MANAZIL 2317280__
+3. __AMIRUL WAFI BIN ABDUL HAMID 2319281	
+__
+3. __MUHAMMAD NAJIB BIN MOHD AZIZ 2317097	
+__
 
 ## Rules
 1. You are allowed to have **3 group** members. *Exception* is allowed **IFF (if and only if)** you are allowed to have 4 group members if you are a **multinational** or a **multigender** group. 
